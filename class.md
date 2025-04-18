@@ -1,6 +1,6 @@
 ## Class Information
-- Name: Matthew Vongphinith  
-- Certification: Meta iOS developer certificate  
+- Name: Matthew Vongphinith 
+- Certification: Meta iOS developer certificate. 
 
 ## Instructions
 Please replace the placeholders with your details:
